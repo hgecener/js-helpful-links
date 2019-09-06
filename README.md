@@ -1,1 +1,1 @@
-# Useful links for who is interested in JavaScript coding
+# JavaScript useful links
